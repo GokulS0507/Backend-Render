@@ -1,17 +1,17 @@
-# Use a valid Java 17 image
+# Use Java 17 (official)
 FROM eclipse-temurin:17-jdk
 
-# Set working directory
+# Working directory inside container
 WORKDIR /app
 
-# Copy all files into container
+# Copy all backend files (Server.java, pets.json, etc.)
 COPY . .
 
-# Compile Java source file
+# Compile Java code
 RUN javac Server.java
 
-# Expose backend port
-EXPOSE 8080
+# Expose default port (Render will override using $PORT)
+EXPOSE 8000
 
-# Start the Java server
+# Run the server
 CMD ["java", "Server"]
