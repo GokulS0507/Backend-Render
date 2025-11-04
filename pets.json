@@ -1,0 +1,42 @@
+[
+  { "id": 1, "name": "Buddy", "type": "Dog", "breed": "Labrador", "age": 3, "imageURL": "https://placedog.net/500/400?id=101" },
+  { "id": 2, "name": "Max", "type": "Dog", "breed": "Golden Retriever", "age": 2, "imageURL": "https://placedog.net/500/400?id=102" },
+  { "id": 3, "name": "Charlie", "type": "Dog", "breed": "Beagle", "age": 4, "imageURL": "https://placedog.net/500/400?id=103" },
+  { "id": 4, "name": "Rocky", "type": "Dog", "breed": "German Shepherd", "age": 5, "imageURL": "https://placedog.net/500/400?id=104" },
+  { "id": 5, "name": "Jack", "type": "Dog", "breed": "Bulldog", "age": 3, "imageURL": "https://placedog.net/500/400?id=105" },
+  { "id": 6, "name": "Cooper", "type": "Dog", "breed": "Poodle", "age": 2, "imageURL": "https://placedog.net/500/400?id=106" },
+  { "id": 7, "name": "Daisy", "type": "Dog", "breed": "Pug", "age": 1, "imageURL": "https://placedog.net/500/400?id=107" },
+  { "id": 8, "name": "Milo", "type": "Dog", "breed": "Border Collie", "age": 4, "imageURL": "https://placedog.net/500/400?id=108" },
+  { "id": 9, "name": "Bailey", "type": "Dog", "breed": "Siberian Husky", "age": 5, "imageURL": "https://placedog.net/500/400?id=109" },
+  { "id": 10, "name": "Luna", "type": "Dog", "breed": "Dalmatian", "age": 2, "imageURL": "https://placedog.net/500/400?id=110" },
+
+  { "id": 11, "name": "Thumper", "type": "Rabbit", "breed": "Dutch Rabbit", "age": 1, "imageURL": "https://loremflickr.com/500/400/rabbit?lock=201" },
+  { "id": 12, "name": "Snowball", "type": "Rabbit", "breed": "Lionhead", "age": 2, "imageURL": "https://loremflickr.com/500/400/rabbit?lock=202" },
+  { "id": 13, "name": "Coco", "type": "Rabbit", "breed": "Mini Lop", "age": 1, "imageURL": "https://loremflickr.com/500/400/rabbit?lock=203" },
+
+  { "id": 14, "name": "Rio", "type": "Parrot", "breed": "Macaw", "age": 3, "imageURL": "https://loremflickr.com/500/400/parrot?lock=204" },
+  { "id": 15, "name": "Sky", "type": "Parrot", "breed": "Cockatiel", "age": 2, "imageURL": "https://loremflickr.com/500/400/parrot?lock=205" },
+
+  { "id": 16, "name": "Goldie", "type": "Fish", "breed": "Goldfish", "age": 1, "imageURL": "https://loremflickr.com/500/400/fish?lock=206" },
+  { "id": 17, "name": "Bubbles", "type": "Fish", "breed": "Betta", "age": 1, "imageURL": "https://loremflickr.com/500/400/fish?lock=207" },
+
+  { "id": 18, "name": "Spike", "type": "Hamster", "breed": "Syrian Hamster", "age": 1, "imageURL": "https://loremflickr.com/500/400/hamster?lock=208" },
+  { "id": 19, "name": "Nibbles", "type": "Hamster", "breed": "Dwarf Hamster", "age": 1, "imageURL": "https://loremflickr.com/500/400/hamster?lock=209" },
+
+  { "id": 20, "name": "Shelly", "type": "Turtle", "breed": "Red-Eared Slider", "age": 5, "imageURL": "https://loremflickr.com/500/400/turtle?lock=210" },
+  { "id": 21, "name": "Speedy", "type": "Turtle", "breed": "Box Turtle", "age": 3, "imageURL": "https://loremflickr.com/500/400/turtle?lock=211" },
+
+  { "id": 22, "name": "Penny", "type": "Guinea Pig", "breed": "American Guinea Pig", "age": 2, "imageURL": "https://loremflickr.com/500/400/guineapig?lock=212" },
+  { "id": 23, "name": "Brownie", "type": "Guinea Pig", "breed": "Abyssinian", "age": 3, "imageURL": "https://loremflickr.com/500/400/guineapig?lock=213" },
+
+  { "id": 24, "name": "Zara", "type": "Goat", "breed": "Boer Goat", "age": 2, "imageURL": "https://loremflickr.com/500/400/goat?lock=214" },
+  { "id": 25, "name": "Billy", "type": "Goat", "breed": "Pygmy Goat", "age": 4, "imageURL": "https://loremflickr.com/500/400/goat?lock=215" },
+
+  { "id": 26, "name": "Pepper", "type": "Sheep", "breed": "Merino", "age": 3, "imageURL": "https://loremflickr.com/500/400/sheep?lock=216" },
+  { "id": 27, "name": "Snow", "type": "Sheep", "breed": "Suffolk", "age": 2, "imageURL": "https://loremflickr.com/500/400/sheep?lock=217" },
+
+  { "id": 28, "name": "Paco", "type": "Duck", "breed": "Pekin Duck", "age": 1, "imageURL": "https://loremflickr.com/500/400/duck?lock=218" },
+  { "id": 29, "name": "Quacky", "type": "Duck", "breed": "Mallard", "age": 2, "imageURL": "https://loremflickr.com/500/400/duck?lock=219" },
+
+  { "id": 30, "name": "Bella", "type": "Dog", "breed": "Shih Tzu", "age": 3, "imageURL": "https://placedog.net/500/400?id=120" }
+]
